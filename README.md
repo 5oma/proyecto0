@@ -1,2 +1,2 @@
-Un nuevo proyecto del museo. 
+Aquí desarrollaremos nuestros proyectos. 
 ¡Gracias totales!
